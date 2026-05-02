@@ -15,6 +15,6 @@ Because this app connects to a local AI server rather than a cloud API, you must
 
 ### 1. Prerequisites
 * Install **Android Studio**.
-* Install **Ollama** on your computer (from [ollama.com](https://ollama.com)).
-* Download the Qwen model by opening your terminal and running:
+* Install **Ollama** on your computer
+* Download the Qwen model by opening your terminal and running
   ollama run qwen2.5:3b
